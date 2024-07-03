@@ -3,9 +3,12 @@ website thương mại điện tử với java jsp và servlet.
 ![image](https://github.com/nguyenthieuv1/e-commerce-website/assets/124664998/1ec35a0d-d411-438e-b26e-fc78f6c0d252)
 
 phân quyền cho customers và admin
+
 customer: có thể đăng kí tài khoản, đăng nhập, tìm kiếm, thêm sản phẩm vào giỏ hàng, xem và quản lý giỏ hàng, đặt hàng, quản lý thông tin của tài khoản, xem lại các sản phẩm đã mua
+
 admin: xem thống kê doanh thu theo sản phẩm, quản lý(thêm, sửa, xóa, hiển, thị) tài khoản khách hàng( thông tin tài khoản, các sản phẩm mỗi khách hàng đã mua), quản lý đơn hàng do khách hàng đặt,
 quản lý mặt hàng của của hàng, thêm mặt hàng mới,...
+
 đặc điểm: trang web có phân trang, sử dụng template bootstrap 
 
 ![image](https://github.com/nguyenthieuv1/e-commerce-website/assets/124664998/8a9a6956-1779-4744-a9be-57139be7e5c7)
